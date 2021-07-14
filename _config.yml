@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: alessandroamato12@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: alematotim
 github_username: nopale
 theme: minima
